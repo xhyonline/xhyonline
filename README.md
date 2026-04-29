@@ -21,7 +21,7 @@
 **专业领域**
 ![云原生](https://img.shields.io/badge/-云原生-326CE5?logo=kubernetes&logoColor=white)
 ![边缘计算](https://img.shields.io/badge/-边缘计算-009688?logo=linux&logoColor=white)
-![CDN](https://img.shields.io/badge/-CDN-加速领域研发-E64A19?logo=cloudflare&logoColor=white)
+![CDN](https://img.shields.io/badge/-CDN加速领域研发-E64A19?logo=cloudflare&logoColor=white)
 ![跨境组网](https://img.shields.io/badge/-异地跨境组网-607D8B?logo=network&logoColor=white)
 
 ---
