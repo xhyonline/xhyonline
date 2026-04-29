@@ -1,12 +1,12 @@
 # 👋 Hi, I'm xuhongyi
 
-![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=2196F3&width=520&lines=专注CDN与云原生;深耕边缘计算与组网架构;喝茶写代码，安静做事)
+![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=2196F3&width=520&lines=深耕边缘计算加速领域)
 
 ---
 
 ## 👨‍💻 关于我
-- 🔭 专注方向：**CDN 内容分发网络、全站加速、跨境三层组网、软件架构设计**
-- 🌱 技术深耕：云原生、边缘计算领域架构落地
+- 🔭 专注方向：**CDN 分发网络、内网穿透、网络加速、网络协议、缓存设计、跨境三层组网、软件架构设计**
+- 🌱 技术深耕：云原生、边缘计算领域研发架构
 - ☕ 日常兴趣：喝茶、研究网络架构、开源技术沉淀
 - 📝 个人博客：[https://xhyonline.com](https://xhyonline.com)
 
